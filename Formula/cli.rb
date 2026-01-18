@@ -11,8 +11,8 @@
 class Cli < Formula
   desc "CLI for managing Cortex Memory deployments and performing administrative tasks"
   homepage "https://cortexmemory.dev"
-  url "https://registry.npmjs.org/@cortexmemory/cli/-/cli-0.29.0.tgz"
-  sha256 "f5b89250da2e868b4294fd09c376c28b78be38021a042fbe52e25829a6dbf8f2"
+  url "https://registry.npmjs.org/@cortexmemory/cli/-/cli-0.31.0.tgz"
+  sha256 "2a89be492c96554adbae2e373235c5b4a5a2e2708b13fadd04b87578a2ff6339"
   license "FSL-1.1-Apache-2.0"
 
   depends_on "node"
